@@ -2,7 +2,7 @@
 
 Pod::Spec.new do |s|
   s.name     = "RX3_WeChatSDK"
-  s.version  = “1.6.2.1”
+  s.version  = "1.7.6.2"
   s.license  = "MIT"
   s.summary  = "RX3_WeChatSDK is a wechat sdk"
   s.homepage = "https://github.com/xzjxylophone/RX3_WeChatSDK"
